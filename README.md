@@ -1,5 +1,5 @@
 # Project_Predicting-Flight-Departure-Delay-with-PySpark
-Time-series analysis on flight departure delay using historic flight departure and weather data. Built comprehensive data pipeline from data preprocessing to modeling, all within DataBricks using PySpark.
+Time-series analysis on flight departure delay using historic flight departure and weather data. Built comprehensive data pipeline from data preprocessing to modeling, all within Databricks using PySpark.
 
 This is the final project for DATASCI 261: Machine Learning at Scale during my MIDS degree. The project was completed together with 4 other team-members.
 
